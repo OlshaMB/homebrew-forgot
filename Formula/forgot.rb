@@ -1,5 +1,5 @@
 class Forgot < Formula
-    version "0.2.1"
+    version "0.2.2"
     desc "A todo list app that indexes your app to find TODO:'s written in rust"
     homepage "https://github.com/OlshaMB/forgot"
     url "https://github.com/OlshaMB/forgot/releases/download/v0.2.0/forgot-macos-latest-x86-64.tar"
